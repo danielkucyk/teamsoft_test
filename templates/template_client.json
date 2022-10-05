@@ -1,0 +1,10 @@
+{
+    "id": 1,
+    "Logradouro": "Minha Rua",
+    "Numero": 1000,
+    "Complemento": "Apartamento",
+    "Bairro": "Meu Bairro",
+    "Cidade": "Minha Cidade",
+    "Estado": "Meu Estado",
+    "CEP": 98765432
+}
