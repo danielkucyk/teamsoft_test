@@ -4,17 +4,17 @@ API built to realise the registration and maintenence of clients and their addre
 
 ## :book: Summary
 
--   [Dependencies](https://github.com/danielkucyk/teamsoft_test/edit/master/README.md#gear-dependencies)
--   [Get Started](https://github.com/danielkucyk/teamsoft_test/edit/master/README.md#rocket-get-started)
-    -   [How to install](https://github.com/danielkucyk/teamsoft_test/edit/master/README.md#how-to-install)
-    -   [Running the application](https://github.com/danielkucyk/teamsoft_test/edit/master/README.md#running-the-application)
--   [Considerations](https://github.com/danielkucyk/teamsoft_test/edit/master/README.md#-considerations)
--   [URLs](https://github.com/danielkucyk/teamsoft_test/edit/master/README.md#-urls)
-    -   [Client](https://github.com/danielkucyk/teamsoft_test/edit/master/README.md#client)
-    -   [Address](https://github.com/danielkucyk/teamsoft_test/edit/master/README.md#address)    
--   [Templates](https://github.com/danielkucyk/teamsoft_test/edit/master/README.md#-templates)
-    -   [Client](https://github.com/danielkucyk/teamsoft_test/edit/master/README.md#client-1)
-    -   [Address](https://github.com/danielkucyk/teamsoft_test/edit/master/README.md#address-1) 
+-   [Dependencies](https://github.com/danielkucyk/teamsoft_test/README.md#gear-dependencies)
+-   [Get Started](https://github.com/danielkucyk/teamsoft_test/README.md#rocket-get-started)
+    -   [How to install](https://github.com/danielkucyk/teamsoft_test/README.md#how-to-install)
+    -   [Running the application](https://github.com/danielkucyk/teamsoft_test/README.md#running-the-application)
+-   [Considerations](https://github.com/danielkucyk/teamsoft_test/README.md#-considerations)
+-   [URLs](https://github.com/danielkucyk/teamsoft_test/README.md#-urls)
+    -   [Client](https://github.com/danielkucyk/teamsoft_test/README.md#client)
+    -   [Address](https://github.com/danielkucyk/teamsoft_test/README.md#address)    
+-   [Templates](https://github.com/danielkucyk/teamsoft_test/README.md#-templates)
+    -   [Client](https://github.com/danielkucyk/teamsoft_test/README.md#client-1)
+    -   [Address](https://github.com/danielkucyk/teamsoft_test/README.md#address-1) 
 
 
 
